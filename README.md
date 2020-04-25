@@ -1,4 +1,4 @@
-# uniborg
+# Uniborg
 
 Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [Telegram](https://telegram.org) userbot based on
@@ -15,7 +15,7 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [![Repl.it](https://repl.it/public/images/light-logo.svg)](https://GenerateStringSession.SpEcHIDe.repl.run)
 
 
-## internals
+## Internals
 
 The core features offered by the custom `TelegramClient` live under the
 [`uniborg/`](https://github.com/SpEcHiDe/uniborg/tree/master/uniborg)
@@ -32,7 +32,7 @@ directory, with some utilities, enhancements, the `_core` plugin, and the `_inli
 - Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
 
 
-## design
+## Design
 
 The modular design of the project enhances your Telegram experience
 through [plugins](https://github.com/SpEcHiDe/uniborg/tree/master/stdplugins)
@@ -54,15 +54,15 @@ async def handler(event):
 ```
 
 
-## learning
+## Learning
 
 Check out the already-mentioned [plugins](https://github.com/SpEcHiDe/UniBorg/tree/master/stdplugins) directory, or some third-party [plugins](https://telegram.dog/UniBorg) to learn how to write your own, and consider reading [Telethon's documentation](http://telethon.readthedocs.io/).
 
 
-## credits
+## CREDITS
 
 
 Thanks to:
 - [lonami](https://lonami.dev) for creating [Telethon](https://github.com/lonamiwebs/Telethon)
-- [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
+- [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://i.ytimg.com/vi/fAyE9eQ6FYc/maxresdefault.jpg "CopyLeft Credit Video")
 
