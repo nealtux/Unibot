@@ -10,7 +10,6 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-#### The Legacy Way
 
 Generate String Session 
 [![Repl.it](https://repl.it/public/images/light-logo.svg)](https://GenerateStringSession.SpEcHIDe.repl.run)
