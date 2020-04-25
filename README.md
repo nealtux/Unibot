@@ -64,8 +64,10 @@ Check out the already-mentioned [plugins](https://github.com/SpEcHiDe/UniBorg/tr
 
 
 Thanks to:
-- [SpEcHlDe](https://telegram.dog/ThankTelegram) 
+
 - [lonami](https://lonami.dev) for creating [Telethon](https://github.com/lonamiwebs/Telethon)
+- [SpEcHlDe](https://telegram.dog/ThankTelegram) 
+- [Dark-Princ3](https://github.com/Dark-Princ3) 
 
 
 [![?](https://i.ytimg.com/vi/fAyE9eQ6FYc/maxresdefault.jpg)](https://telegra.ph/file/bc7f54780b3732c8c8265.mp4 "?")
