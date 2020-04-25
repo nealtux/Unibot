@@ -6,7 +6,7 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 
 ## installing
 
-#### The Easy Way
+#### Deploy to Heroku
 
 [![Deploy](https://media.extratv.com/2016/07/11/rami-malek-1-510x600.jpg)](https://heroku.com/deploy)
 
