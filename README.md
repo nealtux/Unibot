@@ -13,7 +13,7 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 
 #### Generate String Session - Click The Picture Below
 
-[![Repl.it](https://repl.it/public/images/light-logo.svg)](https://GenerateStringSession.SpEcHIDe.repl.run)
+[![Repl.it](https://telegra.ph/file/888151ab9b2c51ee9add1.jpg](https://GenerateStringSession.SpEcHIDe.repl.run)
 
 
 ## Internals
