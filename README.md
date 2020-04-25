@@ -13,7 +13,7 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 
 #### Generate String Session - Click The Picture Below
 
-![Repl.it](https://repl.it/public/images/light-logo.svg)](https://GenerateStringSession.SpEcHIDe.repl.run)
+[!Repl.it](https://repl.it/public/images/light-logo.svg)](https://GenerateStringSession.SpEcHIDe.repl.run)
 
 
 ## Internals
@@ -64,6 +64,7 @@ Check out the already-mentioned [plugins](https://github.com/SpEcHiDe/UniBorg/tr
 
 
 Thanks to:
+- [SpEcHlDe](https://telegram.dog/ThankTelegram) 
 - [lonami](https://lonami.dev) for creating [Telethon](https://github.com/lonamiwebs/Telethon)
-- [![CopyLeft](https://i.ytimg.com/vi/fAyE9eQ6FYc/maxresdefault.jpg)](https://telegra.ph/file/bc7f54780b3732c8c8265.mp4 "CopyLeft Credit Video")
+- [![?](https://i.ytimg.com/vi/fAyE9eQ6FYc/maxresdefault.jpg)](https://telegra.ph/file/bc7f54780b3732c8c8265.mp4 "?")
 
