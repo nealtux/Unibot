@@ -11,15 +11,10 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 #### The Legacy Way
-Simply clone the repository and run the main file:
-```sh
-git clone https://github.com/udf/uniborg.git
-cd uniborg
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-# <Create config.py with variables as given below>
-python3 -m stdborg YourSessionName
+```
+Generate String Session 
+[![Repl.it](https://repl.it/public/images/light-logo.svg)](https://GenerateStringSession.SpEcHIDe.repl.run)
+
 ```
 
 An example `config.py` file could be:
