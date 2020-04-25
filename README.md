@@ -8,7 +8,7 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://media.extratv.com/2016/07/11/rami-malek-1-510x600.jpg)](https://heroku.com/deploy)
 
 
 Generate String Session 
