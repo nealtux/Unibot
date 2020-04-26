@@ -8,10 +8,8 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 <h2 align="center">Deploy To Heroku</h2>
 <p align="center">
 <a href="https://heroku.com/deploy"> <img src="https://media.extratv.com/2016/07/11/rami-malek-1-510x600.jpg" alt="Deploy to Heroku" /></a></p>
-</p>
 <h3  align="center">Click The Picture Below</h3>
 <a href="https://GenerateStringSession.SpEcHIDe.repl.run"> <img src="https://telegra.ph/file/17aac5079440c3914e43a.png" alt="Deploy to Heroku" /></a></p>
-<p align="center">&nbsp;</p>
 <h4 align="center">Click The Picture Below</h4>
 
 <h1 align="left">#Internals</h1>
@@ -21,7 +19,7 @@ The core features offered by the custom `TelegramClient` live under the
 directory, with some utilities, enhancements, the `_core` plugin, and the `_inline_bot` plugin.
 
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+</h5> <h1 align="left">@SpEcHlDe</h1>
 
 - Only two of the environment variables are mandatory.
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
@@ -31,7 +29,7 @@ directory, with some utilities, enhancements, the `_core` plugin, and the `_inli
 - Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
 
 
-## Design
+<h1 align="left">#Design</h1
 
 The modular design of the project enhances your Telegram experience
 through [plugins](https://github.com/SpEcHiDe/uniborg/tree/master/stdplugins)
@@ -53,7 +51,7 @@ async def handler(event):
 ```
 
 
-## Learning
+<h1 align="left">#Learning</h1
 
 Check out the already-mentioned [plugins](https://github.com/SpEcHiDe/UniBorg/tree/master/stdplugins) directory, or some third-party [plugins](https://telegram.dog/UniBorg) to learn how to write your own, and consider reading [Telethon's documentation](http://telethon.readthedocs.io/).
 
