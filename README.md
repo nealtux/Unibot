@@ -70,5 +70,4 @@ Thanks to:
 - [Dark-Princ3](https://github.com/Dark-Princ3) 
 
 
-[![?](https://i.ytimg.com/vi/fAyE9eQ6FYc/maxresdefault.jpg)](https://telegra.ph/file/bc7f54780b3732c8c8265.mp4 "?")
 
