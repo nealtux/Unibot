@@ -1,4 +1,4 @@
-<h1 align="center"># Uniborg</h1>
+<h1 align="left"># Uniborg</h1>
 
 Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [Telegram](https://telegram.org) userbot based on
@@ -14,7 +14,7 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 <p align="center">&nbsp;</p>
 <h4 align="center">Click The Picture Below</h4>
 
-## Internals
+<h1 align="left">#Internals</h1>
 
 The core features offered by the custom `TelegramClient` live under the
 [`uniborg/`](https://github.com/SpEcHiDe/uniborg/tree/master/uniborg)
