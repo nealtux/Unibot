@@ -1,17 +1,21 @@
-# Uniborg
+<h1 align="center"># Uniborg</h1>
 
 Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [Telegram](https://telegram.org) userbot based on
 [Telethon](https://github.com/LonamiWebs/Telethon).
 
-## installing
+<h2 align="center">How To Host</h2>
 
 #### Deploy To Heroku - Click The Picture Below
 
 [![Deploy](https://media.extratv.com/2016/07/11/rami-malek-1-510x600.jpg)](https://heroku.com/deploy)
 
 
-#### Generate String Session - Click The Picture Below
+<h3 align="center">Generate String Session </h3>
+
+
+### Generate String Session - Click The Picture Below
+
 
 [![Repl.it](https://telegra.ph/file/7450155c09b092a5c9d8b.png)](https://GenerateStringSession.SpEcHIDe.repl.run)
 
