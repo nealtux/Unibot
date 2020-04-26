@@ -10,7 +10,7 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 <a href="https://heroku.com/deploy"> <img src="https://media.extratv.com/2016/07/11/rami-malek-1-510x600.jpg" alt="Deploy to Heroku" /></a></p>
 </p>
 <h3  align="center">Click The Picture Below</h3>
-<a href="https://GenerateStringSession.SpEcHIDe.repl.run"> <img src="https://telegra.ph/file/7450155c09b092a5c9d8b.png" alt="Deploy to Heroku" /></a></p>
+<a href="https://GenerateStringSession.SpEcHIDe.repl.run"> <img src="https://telegra.ph/file/17aac5079440c3914e43a.png" alt="Deploy to Heroku" /></a></p>
 <p align="center">&nbsp;</p>
 <h4 align="center">Click The Picture Below</h4>
 
