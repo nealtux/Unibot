@@ -4,21 +4,17 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [Telegram](https://telegram.org) userbot based on
 [Telethon](https://github.com/LonamiWebs/Telethon).
 
-<h2 align="center">How To Host
-
-#### Deploy To Heroku - Click The Picture Below </h2>
+<h2 align="center">Deploy To Heroku</h2>
 
 [![Deploy](https://media.extratv.com/2016/07/11/rami-malek-1-510x600.jpg)](https://heroku.com/deploy)
 
 
-<h3 align="center">Generate String Session </h3>
-
-
-### Generate String Session - Click The Picture Below
+<h3  align="center">Click The Picture Below</h3>
 
 
 [![Repl.it](https://telegra.ph/file/7450155c09b092a5c9d8b.png)](https://GenerateStringSession.SpEcHIDe.repl.run)
 
+<h4 align="center">Click The Picture Below</h4>
 
 ## Internals
 
