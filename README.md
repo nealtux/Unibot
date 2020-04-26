@@ -4,9 +4,9 @@ Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [Telegram](https://telegram.org) userbot based on
 [Telethon](https://github.com/LonamiWebs/Telethon).
 
-<h2 align="center">How To Host</h2>
+<h2 align="center">How To Host
 
-#### Deploy To Heroku - Click The Picture Below
+#### Deploy To Heroku - Click The Picture Below </h2>
 
 [![Deploy](https://media.extratv.com/2016/07/11/rami-malek-1-510x600.jpg)](https://heroku.com/deploy)
 
