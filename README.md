@@ -16,7 +16,7 @@
 <p align="center">Thanks to: </p>
 
 - [lonami](https://lonami.dev) for creating [Telethon](https://github.com/lonamiwebs/Telethon)
-- [SpEcHlDe](https://telegram.dog/ThankTelegram) for fork  [UniBorg](https://telegram.dog/ThankTelegram) 
+- [SpEcHlDe](https://telegram.dog/ThankTelegram) for fork  [UniBorg](https://github.com/SpEcHiDe/UniBorg) 
 - [Dark-Princ3](https://github.com/Dark-Princ3) 
 - [Devp73](https://github.com/Devp73) 
 
